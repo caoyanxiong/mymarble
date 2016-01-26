@@ -1,0 +1,6 @@
+
+MyMarble.ui = new (function()
+{
+
+
+});
