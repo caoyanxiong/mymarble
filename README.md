@@ -2,6 +2,8 @@
 
 ![나만의 마블](http://www.autoset.net/marble/github-img/mymarble6.jpg)
 
+DEMO : [데모 페이지(F12 눌러 콘솔 메시지를 보세요 --;)](http://www.autoset.net/marble/main.html)
+
 ## 이게 뭐죠?
 
 `나만의 마블`은 HTML 5 기술을 기반으로 개발하고 있던(!) 보드 게임입니다.
